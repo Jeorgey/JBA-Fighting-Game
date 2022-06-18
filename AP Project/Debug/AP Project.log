@@ -1,0 +1,185 @@
+﻿  Source.cpp
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2344,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2344,49): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2344,88): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2378,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2397,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2397,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2398,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2398,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2439,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2440,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2445,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2446,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2451,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2452,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2466,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2467,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2472,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2473,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2478,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2479,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2503,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2504,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2507,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2509,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2514,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2515,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2518,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2520,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2524,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2525,22): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2552,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2553,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2558,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2559,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2564,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2565,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2579,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2580,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2585,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2586,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2591,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2592,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2616,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2617,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2620,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2622,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2627,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2628,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2631,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2633,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2637,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2638,22): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2663,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2663,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2665,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2665,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2674,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2674,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2676,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2676,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2701,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2701,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2703,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2703,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2729,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2729,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2731,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2731,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2741,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2741,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2743,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2743,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2760,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2760,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2762,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2762,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2779,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2779,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2781,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2781,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2787,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2787,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2789,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2789,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2796,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2796,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2798,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2798,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2804,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2804,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2806,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2806,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2815,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2815,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2817,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2817,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2842,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2842,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2844,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2844,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2870,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2870,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2872,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2872,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2882,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2882,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2884,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2884,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2901,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2901,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2903,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2903,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2920,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2920,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2922,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2922,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2928,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2928,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2930,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2930,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2937,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2937,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2939,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2939,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2949,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2949,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2951,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2951,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2971,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2971,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2973,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(2973,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3040,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3040,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3042,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3042,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3043,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3044,22): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3047,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3047,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3054,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3054,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3056,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3056,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3057,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3058,22): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3061,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3061,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3088,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3088,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3090,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3090,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3092,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3092,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3122,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3122,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3124,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3124,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3125,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3126,22): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3129,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3129,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3136,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3136,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3138,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3138,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3139,35): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3140,22): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3143,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3143,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3170,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3170,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3172,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3172,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3174,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3174,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Applied Project\AP Project\AP Project\Source.cpp(3192,62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  cc212vsgl.lib(CC212VSGL.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+c:\users\nour\documents\visual studio 2019\projects\cc212vsgl\cc212vsgl\cc212vsgl.cpp(138): warning C4715: 'CC212VSGL::drawImage': not all control paths return a value
+  Finished generating code
+cc212vsgl.lib(CC212VSGL.obj) : warning LNK4099: PDB '' was not found with 'cc212vsgl.lib(CC212VSGL.obj)' or at ''; linking object as if no debug info
+  AP Project.vcxproj -> D:\Projects\Applied Project\AP Project\Debug\AP Project.exe
